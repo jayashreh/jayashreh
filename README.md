@@ -14,6 +14,7 @@
 I am a passionate second-year B.Tech Information Technology student focused on building a strong foundation in Software Engineering and Artificial Intelligence. I love solving problems and am actively exploring data-driven technologies to create smart solutions.
 
 ---
+<img src="https://storyset.com/images/animate/work-animate.svg" align="right" width="350" alt="Developer Coding" />
 
 ## 🛠️ Technical Stack & Skills
 
