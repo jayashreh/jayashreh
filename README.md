@@ -1,4 +1,4 @@
-<img src="https://storyset.com/images/animate/work-animate.svg" align="right" width="320" alt="Developer Illustration" />
+<img src="https://media.giphy.com/media/uPfE6S52qscMw/giphy.gif" align="right" width="280" alt="Developer Coding" />
 
 # 🧠 Jayashre H
 
