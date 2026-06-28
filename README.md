@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-[![Coding GIF](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)](https://github.com/jayashreh)
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🚀 Who I Am
 
@@ -22,7 +22,9 @@
 - 🐍 Currently sharpening my skills in **Python, Data Science & DSA**
 - 📊 Exploring **NumPy, Pandas & Matplotlib** for data analysis
 - 💡 Always curious, always building — one commit at a time
-- 🏆 **School Topper** — academic excellence runs deep!
+- 🏆 **3rd Rank in School** — CBSE Class 10 Board Exams!
+
+<br clear="right"/>
 
 ---
 
@@ -52,7 +54,7 @@
 
 ## 📚 My Learning Journey
 
-**🏫 MSEC, Kodambakkam — B.Tech Information Technology (2023 – 2027)**
+**🏫 MSEC, Kodambakkam — B.Tech Information Technology (2025 – 2029)**
 
 - 📖 Core subjects: Data Structures, OOP, DBMS, Computer Networks
 - 🤖 Self-learning: AI/ML concepts, Python for Data Science
@@ -77,9 +79,9 @@
 
 ## 🏆 Achievements & Recognition
 
-| 🥇 **School Topper** | 💻 **LeetCode** | 🤖 **AI/ML Explorer** | 📚 **Lifelong Learner** |
+| 🥉 **School 3rd Topper** | 💻 **LeetCode** | 🤖 **AI/ML Explorer** | 📚 **Lifelong Learner** |
 |---|---|---|---|
-| Academic excellence at school level | Actively solving DSA problems | Self-learning AI/ML while in 2nd year | Constantly upskilling every day |
+| 3rd Rank in CBSE Class 10 Board Exams | Actively solving DSA problems | Self-learning AI/ML while in 2nd year | Constantly upskilling every day |
 
 ---
 
